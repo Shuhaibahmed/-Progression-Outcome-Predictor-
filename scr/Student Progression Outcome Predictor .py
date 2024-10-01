@@ -8,8 +8,6 @@ retriever_count = 0
 inputs = []
 all_inputs = []
 
-
-
 def progression_outcome(num1, num2, num3):
     num_pass = int(num1 / 20)
     num_defer = int(num2 / 20)
